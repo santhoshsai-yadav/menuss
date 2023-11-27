@@ -1,0 +1,37 @@
+
+
+
+*{
+    padding: 0;
+    margin: 0; 
+    box-sizing: border-box;
+    font-family: poppins,sans-serif;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-color: gray !important;
+}
+.c i{
+    font-size: 30px;
+    color: #0e0a0a;
+    cursor: pointer;
+    
+}
+
+/* i{
+    font-size: 50px;
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+h1{
+    text-align: center;
+    font-size: 3em;
+    text-transform: uppercase;
+
+} */
